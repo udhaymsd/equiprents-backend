@@ -28,8 +28,8 @@ contact.post(async(req, res) => {
         });
 
         let mailOptions = {
-            from: "krishnakireeti.mamidi@gmail.com",
-            to: "krishnakiriti.mamidi@gmail.com",
+            from: "udhayau123@gmail.com",
+            to: "udhayau123@gmail.com",
             subject: "New Request Received",
             html: `<div>
                 <p>Hello Krishna,</p>
